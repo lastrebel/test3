@@ -3,7 +3,7 @@
 #main {
     background: url("background.jpg");
     background-position: center top;
-    background-attachment: fixed;
+    background-size: cover;
 
 }
 #inner, #innertop, #innerbttm {
@@ -14,7 +14,7 @@
     max-width: 600px;
     background: url("blurry_background7.jpg") -20px -30px;
     background-position: center top;
-    background-attachment: fixed;
+    background-size:cover;
     border-radius: 15px;
     
 
